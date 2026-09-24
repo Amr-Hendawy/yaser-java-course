@@ -1,0 +1,28 @@
+== Tasks 1 24/09/2026   Status:?
+
+-- Grade Analyzer تحليل درجة الطالب
+    -- if grade < 0 or > 100 XX
+        -- if grade >= 50 passed
+        -- if grade >= 85 excellent
+        -- else grade good
+    -- else grade failed
+        -- if grade >= 30 needs improvements
+        -- else grade very poor
+--------------------------------------------------
+-- Number Analyzer تحليل الرقم
+    -- if num > 0 positive
+        if num % 2 == 0 even
+        else odd
+        -- if num > 100 large num 
+        -- else small num
+    -- else if num < 0 negative
+        -- if num % 2 == 0 even
+        -- else odd
+---------------------------------------------------
+-- Age Checker
+    -- if age < 0 invalid age
+        -- else if age <= 12 child
+        -- else if age <= 17 teenager
+    else adult
+        -- if age >= 60 senior
+        -- else Young Adult

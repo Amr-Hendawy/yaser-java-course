@@ -26,3 +26,13 @@
     else adult
         -- if age >= 60 senior
         -- else Young Adult
+---------------------------------------------------
+-- make a switch
+    -- for days
+    -- case saturday ==> it's a holiday
+    -- case sunday or case Monday ==> it's a working day
+    -- case tuesday ==> it is a working from home
+    -- case wednesday ==> it is a hald working day
+    -- case thursday ==> it's a it is weekend
+    -- case Friday ==> it is another holiday
+    -- default  ==> It is invalid day

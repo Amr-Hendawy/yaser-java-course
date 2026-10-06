@@ -1,0 +1,42 @@
+== Tasks 1 24/09/2026   Status:?
+
+-- Grade Analyzer تحليل درجة الطالب
+<<<<<<< HEAD
+    -- if grade  0 or > 100 XX
+=======
+    -- if grade > 0 or < 100 XX
+>>>>>>> f102a2d (feat: add DisplaySwich and School classes for grade evaluation)
+        -- if grade >= 50 passed
+        -- if grade >= 85 excellent
+        -- else grade good
+    -- else grade failed
+        -- if grade >= 30 needs improvements
+        -- else grade very poor
+--------------------------------------------------
+-- Number Analyzer تحليل الرقم
+    -- if num > 0 positive
+        if num % 2 == 0 even
+        else odd
+        -- if num > 100 large num 
+        -- else small num
+    -- else if num < 0 negative
+        -- if num % 2 == 0 even
+        -- else odd
+---------------------------------------------------
+-- Age Checker
+    -- if age < 0 invalid age
+        -- else if age <= 12 child
+        -- else if age <= 17 teenager
+    else adult
+        -- if age >= 60 senior
+        -- else Young Adult
+---------------------------------------------------
+-- make a switch
+    -- for days
+    -- case saturday ==> it's a holiday
+    -- case sunday or case Monday ==> it's a working day
+    -- case tuesday ==> it is a working from home
+    -- case wednesday ==> it is a hald working day
+    -- case thursday ==> it's a it is weekend
+    -- case Friday ==> it is another holiday
+    -- default  ==> It is invalid day

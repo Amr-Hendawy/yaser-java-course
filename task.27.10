@@ -1,0 +1,19 @@
+Task 1: Integer Digit Analyzer (while loop & Math)
+Concept: Use a while loop to analyze the digits inside a positive integer.
+
+Requirements:
+
+Prompt the user to enter a positive integer.
+
+Count the total number of digits in the number.
+
+Calculate the sum of all its digits.
+
+Tip: Use % 10 to extract the last digit, and / 10 to remove the last digit.
+الفكرة ببساطه : استخدام while لتحليل الأرقام الموجودة داخل عدد صحيح.
+
+المطلوب منك :
+- أدخل عددًا صحيحًا موجبًا.
+- احسب عدد أرقامه.
+- احسب مجموع أرقامه.
+- استخدم % 10 لاستخراج آخر رقم، و/ 10 لحذفه.

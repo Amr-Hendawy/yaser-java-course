@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class coffeSwich {
+    // function = routine = subroutine - method
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter you the number for your coffee type");
